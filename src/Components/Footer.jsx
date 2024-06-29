@@ -1,3 +1,4 @@
+// <<<<<<< HEAD
 import React from "react";
 import { FaFacebookF } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
@@ -49,3 +50,4 @@ const Footer = () => {
 };
 
 export default Footer;
+// =======
